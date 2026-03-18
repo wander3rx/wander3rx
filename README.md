@@ -1,16 +1,23 @@
-## Hi there 👋
+Sobre mim...
+Sou desenvolvedor focado na criação de sistemas funcionais, principalmente voltados para jogos e automações.
+Tenho experiência na construção de:
+Sistemas de login e estrutura de jogadores
+Customização de personagens (visual e lógica)
+Bots para Discord com foco em utilidade e interação
+Busco evoluir constantemente criando projetos que possam gerar valor real no mundo digital.
 
-<!--
-**wander3rx/wander3rx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias:
 
-Here are some ideas to get you started:
+Dream Maker (BYOND)
+Python
+Lógica de programação
+Sistemas e estrutura de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em evolução
+Atualmente focado em:
+Melhorar estrutura de código
+Criar projetos mais completos
+Expandir conhecimentos em Python
+
+Contato
+Discord: wander3rx
