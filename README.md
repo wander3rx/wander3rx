@@ -12,8 +12,7 @@ Python
 Lógica de programação
 Sistemas e estrutura de dados
 
-Em evolução
-Atualmente focado em:
+Em evolução, atualmente focado em:
 Melhorar estrutura de código
 Criar projetos mais completos
 Expandir conhecimentos em Python
