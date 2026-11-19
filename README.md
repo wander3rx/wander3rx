@@ -1,48 +1,38 @@
 # Boas-vindas à página de Wander3r!
 
-Sou desenvolvedor independente e estou construindo minha experiência em programação por meio de projetos práticos.
+Sou um desenvolvedor independente interessado em tecnologia, lógica de programação e construção de sistemas.
 
-Tenho interesse em desenvolvimento de jogos, lógica de programação, criação de sistemas e resolução de problemas.
+Atualmente, estou desenvolvendo **Crônicas do Mundo Shinobi**, um projeto de jogo multiplayer utilizando BYOND e Dream Maker (DM).
 
-## 🚀 Projeto em Destaque
+Meu foco está em transformar ideias em sistemas funcionais, desenvolver mecânicas consistentes e compreender a arquitetura por trás das soluções que construo.
 
-### Crônicas do Mundo Shinobi
+### 🚀 Atualmente trabalhando em
 
-Um projeto de jogo multiplayer inspirado no universo de Naruto, desenvolvido utilizando **BYOND e Dream Maker (DM)**.
+- 🎮 Desenvolvimento de Crônicas do Mundo Shinobi.
+- ⚙️ Sistemas de combate, habilidades e progressão de personagens.
+- 🧠 Lógica de programação e gerenciamento de estados.
+- 💾 Sistemas de persistência e gerenciamento de dados.
+- 🔧 Depuração, testes e aperfeiçoamento de código.
 
-Atualmente, estou desenvolvendo e aprimorando diferentes sistemas do jogo:
+### 🛠️ Tecnologias e conhecimentos
 
-- Criação, carregamento e salvamento de personagens;
-- Persistência de dados e progressão de atributos;
-- Sistemas de clãs e vilas;
-- Habilidades e técnicas ninja (Jutsus);
-- Mecânicas de combate;
-- Sistemas de treinamento e evolução;
-- Interações e funcionalidades multiplayer.
+- **Linguagem:** Dream Maker (DM).
+- **Plataforma:** BYOND.
+- **Conhecimentos:** Lógica de programação, estruturas de dados, procedimentos, variáveis, persistência de dados e desenvolvimento de sistemas.
 
-O projeto é desenvolvido de forma independente, envolvendo planejamento, programação, testes, depuração e aprimoramento contínuo.
+### 💡 Interesses
 
-## 🛠️ Tecnologias e Ferramentas
+- Desenvolvimento de software.
+- Desenvolvimento de jogos.
+- Engenharia de software.
+- Arquitetura de sistemas.
+- Inteligência artificial.
+- Resolução de problemas.
 
-- **BYOND**
-- **Dream Maker (DM)**
-- **Git e GitHub** — em aprendizado.
+### 🎯 Objetivo
 
-## 📚 Conhecimentos em Desenvolvimento
-
-- Lógica de programação;
-- Desenvolvimento de sistemas para jogos;
-- Estruturas de dados e listas;
-- Persistência e gerenciamento de dados;
-- Depuração e resolução de problemas;
-- Organização e manutenção de código.
-
-## 🎯 Objetivo
-
-Continuar evoluindo como desenvolvedor, ampliar meus conhecimentos em programação e transformar ideias em projetos funcionais.
-
-Acredito que a melhor maneira de aprender é construir, testar, identificar problemas e melhorar continuamente.
+Continuar evoluindo como desenvolvedor, ampliar meus conhecimentos em programação e participar de projetos que permitam transformar criatividade, conhecimento e raciocínio lógico em soluções reais.
 
 ---
 
-*Aprendendo na prática. Desenvolvendo com propósito.*
+*"Grandes sistemas começam com uma ideia, mas ganham vida através da lógica, da persistência e da execução."*
